@@ -12,7 +12,10 @@
 2. 两种认证方式（账号登录 / API Key）
 3. 在 IDE（PyCharm / VS Code）中稳定使用
 
-参考csdn文章"https://blog.csdn.net/bynacqt/article/details/157184215"的配置，主要补充了ide使用方面。本文省略了一些具体步骤，若需要更详细的教程可以参考该csdn文章。
+参考csdn文章"https://blog.csdn.net/bynacqt/article/details/157184215"
+
+本文主要补充了在ide中的使用，省略了一些具体步骤，若需要更详细的教程可以参考该csdn文章。
+
 ---
 
 ## 目录
