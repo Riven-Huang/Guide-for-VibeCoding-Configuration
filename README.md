@@ -8,7 +8,7 @@
 
 这是一份可直接执行的 **Windows Codex 配置文档**。按顺序操作后，可以完成：
 
-1. Git / Node.js / Codex CLI 安装
+1. Git / Node.js / Codex CLI / cc-switch安装
 2. 两种认证方式（账号登录 / API Key）
 3. 在 IDE（PyCharm / VS Code）中稳定使用
 
