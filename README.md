@@ -1,4 +1,4 @@
-# Windows 上安装和使用 Codex
+# Windows 上安装和使用 Codex(已经无意义，发展sofast)
 
 本文说明如何在 Windows 10/11 上安装 Git、Node.js 和 Codex CLI，并在 VS Code 或 PyCharm 的项目终端中使用 Codex。
 
